@@ -1,0 +1,3 @@
+azure-functions
+json5
+pandas
